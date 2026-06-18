@@ -1,0 +1,6 @@
+{
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "editor.renderLineHighlight": "none",
+  "diffEditor.renderSideBySide": false
+}
